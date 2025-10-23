@@ -23,10 +23,11 @@
 
 ### 🤝 Sosyal Medya ve İletişim
 
-<p align="center">
-  <a href="https://linkedin.com/in/mertbal-dev" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mertbal-dev" height="40" width="50" />
-  </a>
+
+<p align="left">
+  <a href="https://linkedin.com/in/mertbal-dev" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40"/></a>
+  <a href="mailto:ismailmertbal@gmail.com" target="_blank"><img src="https://img.icons8.com/fluency/48/gmail-new.png" alt="gmail" height="30" width="40"/></a>
+  <a href="https://github.com/mertbal-dev" target="_blank"><img src="https://img.icons8.com/ios-filled/50/github.png" alt="github" height="30" width="40"/></a>
 </p>
 
 ---

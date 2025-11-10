@@ -24,7 +24,7 @@ I care about *why* something should be built as much as *how* to build it.
 - Use data, analytics, and user feedback to guide decisions  
 - Contribute to UX, product ideation, and rapid iteration  
 
-📌 Currently building: **Present-AI** (AI-powered presentation generator)  
+📌 Latest project: Present-AI (AI-powered presentation generator)  
 📌 Exploring: AI-driven analytics, growth frameworks, and mobile UX patterns  
 📫 Contact: **ismailmertbal@gmail.com**
 
